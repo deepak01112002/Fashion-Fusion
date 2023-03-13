@@ -11,7 +11,7 @@
 <ul>
    <li> <h4 >Priti Tiwari - [ Landing page, Checkout page, Payment page ]</h4></li>
     <li> <h4 >Dhanush - [ Login/Registration, Man page ,Women page ]</h4></li>
-    <li> <h4 >Deepak - [ Product page ,Cart page ]</h4></li>
+    <li> <h4 >Deepak - [ Product page ,Cart page, Mock API , Filter,Sorting ]</h4></li>
      <li> <h4 >Shivbhushan - [ Cart is empty page ]</h4></li>
       <li> <h4 >Ashish - [ Admin page ]</h4></li>
       <li><h4 align="left" > Netlify-link-  https://admirable-pavlova-852094.netlify.app/ </h4></li>
